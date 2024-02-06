@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+h1{
+    font-size:5vw;
+    color: purple;
+    text-align:center;
+}
+
+p{
+    text-align: center;
+}
+
+button{
+    width:45vw;
+    height:5vh;
+    border:0vh;
+    color:white;
+    font-weight:900;
+    margin-left:28vw;
+    margin-top:1vw;
+    align-items:center;
+    border-radius:10px;
+    background-color: purple;
+}
