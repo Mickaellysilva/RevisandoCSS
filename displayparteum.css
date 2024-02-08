@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+.divs{
+    width: 150px;
+    height: 150px;
+    margin-top:5vh;
+    background-color:purple;
+    display:inline-block;
+
+}
+
+#two{
+    background-color:pink;
+}
+
+#three{
+    background-color:blue;
+}
+
+#for{
+    background-color:red;
+}
